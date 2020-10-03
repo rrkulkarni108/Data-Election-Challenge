@@ -1,5 +1,5 @@
 # README: Data Desperados CA Election 2020 Data Challenge Submission
- last updated 10/03/2020 by Sameerah Helal
+Last updated 10/03/2020 by Sameerah Helal
 
 ### Motivation
 This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge. We researched Prop. 18 and our research question was "How would including some 17 year olds in the primary voter base affect the outcome of elections?"
