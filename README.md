@@ -1,13 +1,12 @@
 # README: Data Election Challenge by the Data Desperados 🤠
-*This is the main directory for data and support files related to the PROJECT NAME.*
 
 ### last updated: 10/03/2020
 ### last update by: Sameerah Helal
 
-### Purpose/motivation
+## Purpose/motivation
 This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge. We researched Prop. 18 and our research question was "How would including some 17 year olds in the primary voter base affect the outcome of elections?"
 
-### Directory Manifest
+## Directory Manifest
 
 *  Folders:
 	* Data - manually cleaned dataset.
@@ -16,7 +15,7 @@ This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge.
 	*  .xlsx files - contain our manually cleaned data in Microsoft Excel files
 *  .R files - contain our code to produce visualizations.
 
-### Contributors
+## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 | Contributions | Name |
 | ----: | :---- |
@@ -26,7 +25,7 @@ This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge.
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-### Project URLs - (for example: to data sources you used for the project)
+## Data Sources
 
 * https://www.census.gov/data/tables/time-series/demo/voting-and-registration/voting-historical-time-series.html
 * http://www.electproject.org/home/voter-turnout/voter-turnout-data
