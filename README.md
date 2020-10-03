@@ -1,4 +1,4 @@
-# README: Data Election Challenge by the Data Desperados 🤠
+# README: Data Desperados CA Election 2020 Data Challenge Submission
  last updated 10/03/2020 by Sameerah Helal
 
 ### Motivation
