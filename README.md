@@ -13,9 +13,9 @@ This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge.
 	*  .pngs files - 
 
 ### Contributors
-[Radhika Kulkarni](rrkulkarni@ucdavis.edu)
-[Sameerah Helal](shelal@ucdavis.edu) - Lead
-[Yasmeen Itani](yitani@ucdavis.edu)
+####[Radhika Kulkarni](rrkulkarni@ucdavis.edu)
+####[Sameerah Helal](shelal@ucdavis.edu) - Lead
+####[Yasmeen Itani](yitani@ucdavis.edu)
 
 ### Data Sources
 
