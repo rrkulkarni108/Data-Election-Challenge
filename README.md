@@ -17,6 +17,10 @@ This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge.
 * [Sameerah Helal](shelal@ucdavis.edu) - Lead
 * [Yasmeen Itani](yitani@ucdavis.edu)
 
+### Links
+* [Slideshow Presentation](https://docs.google.com/presentation/d/1tB0Ndn3OX5WVjjFFWv01SBXME26rWbgKRYjjF9oGq60/edit?usp=sharing)
+* [Video Presentation](https://www.youtube.com/watch?v=UiUETadWcqs&feature=youtu.be&ab_channel=YasmeenItani)
+
 ### Data Sources
 
 * https://www.census.gov/data/tables/time-series/demo/voting-and-registration/voting-historical-time-series.html
