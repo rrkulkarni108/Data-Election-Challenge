@@ -1,16 +1,18 @@
 # README: Data Election Challenge by the Data Desperados 🤠
-
-#### last updated: 10/03/2020
-#### last update by: Sameerah Helal
+ last updated: 10/03/2020
+ last update by: Sameerah Helal
 
 ## Motivation
 This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge. We researched Prop. 18 and our research question was "How would including some 17 year olds in the primary voter base affect the outcome of elections?"
 
 ## File Overview
-* Files:
-	*  .xlsx files - our manually cleaned data in Microsoft Excel files
-	*  .R files - our code to produce visualizations.
-	*  .pngs files - 
+* .xlsx files - our manually cleaned data in Microsoft Excel files
+	* Primary election turnout for every presidential election from 2000 to 2020
+	* General election turnout and registration by age group for every general election from 1964 to 2018
+	* US youth population by age group from 1990 to 2019
+	* Party affiliation with age group
+* .R files - our code to produce visualizations.
+* .pngs files - our visualization results
 
 ## Contributors
 * [Radhika Kulkarni](rrkulkarni@ucdavis.edu)
