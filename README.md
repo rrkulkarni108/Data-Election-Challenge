@@ -1,31 +1,23 @@
 # README: Data Election Challenge by the Data Desperados 🤠
 
-### last updated: 10/03/2020
-### last update by: Sameerah Helal
+#### last updated: 10/03/2020
+#### last update by: Sameerah Helal
 
-## Purpose/motivation
+### Motivation
 This is our submission for the UC Davis DataLab CA Election 2020 Data Challenge. We researched Prop. 18 and our research question was "How would including some 17 year olds in the primary voter base affect the outcome of elections?"
 
-## Directory Manifest
-
-*  Folders:
-	* Data - manually cleaned dataset.
-
+### File Overview
 * Files:
-	*  .xlsx files - contain our manually cleaned data in Microsoft Excel files
-*  .R files - contain our code to produce visualizations.
+	*  .xlsx files - our manually cleaned data in Microsoft Excel files
+	*  .R files - our code to produce visualizations.
+	*  .pngs files - 
 
-## Contributors
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-| Contributions | Name |
-| ----: | :---- |
-| [🔢](# "Content")[💻](# "Code") | [Radhika Kulkarni](rrkulkarni@ucdavis.edu) |
-| [🔢](# "Content") [💻](# "Code") [🤔](# "Ideas and Planning") [📋](# "Organizer") | [Sameerah Helal](shelal@ucdavis.edu) |
-| [🔢](# "Content") [💻](# "Code") [🤔](# "Ideas and Planning") | [Yasmeen Itani](yitani@ucdavis.edu)(#) |
+### Contributors
+[Radhika Kulkarni](rrkulkarni@ucdavis.edu)
+[Sameerah Helal](shelal@ucdavis.edu) - Lead
+[Yasmeen Itani](yitani@ucdavis.edu)
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Data Sources
+### Data Sources
 
 * https://www.census.gov/data/tables/time-series/demo/voting-and-registration/voting-historical-time-series.html
 * http://www.electproject.org/home/voter-turnout/voter-turnout-data
